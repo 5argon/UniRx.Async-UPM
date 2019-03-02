@@ -1,0 +1,8 @@
+{
+    "name": "com.unirx.async",
+    "author": "neuecc",
+    "displayName": "UniRx Async",
+    "version": "6.2.2",
+    "unity": "2018.1",
+    "description": "Just the Async part of UniRx"
+}
